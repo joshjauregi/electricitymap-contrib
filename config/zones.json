@@ -5545,6 +5545,7 @@
   "US-CAL-CISO": {
     "comment": "California Independent System Operator",
     "capacity": {
+      "nuclear": 2256,
       "solar": 13147,
       "wind": 6690,
       "geothermal": 1387
